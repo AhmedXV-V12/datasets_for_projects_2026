@@ -4,3 +4,23 @@ you have :
 [bigdb.json](bigdb.json)
 [big_data.txt](bigd_ata.txt)
 
+in *Text_file*:
+```
+this is example for text
+______________________
+
+this is example2 for text
+
+```
+
+in *json_file*:
+```
+[
+ {
+ "content": "this is example for text"
+ },
+ {
+ "content": "this is example2 for text"
+ }
+]
+```

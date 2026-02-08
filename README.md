@@ -2,7 +2,7 @@
 ``` it's dataset for my projects in 2026 ```
 you have : 
 [bigdb.json](bigdb.json)
-[big_data.txt](bigd_ata.txt)
+[big_data.txt](bigd_data.txt)
 
 in *Text_file*:
 ```
